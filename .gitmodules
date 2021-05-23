@@ -1,0 +1,9 @@
+[submodule "RTP"]
+	path = RTP
+	url = https://github.com/KuangjuX/RTP.git
+[submodule "DV-Router"]
+	path = DV-Router
+	url = https://github.com/KuangjuX/DV-Router.git
+[submodule "Rust-Chat"]
+	path = Rust-Chat
+	url = https://github.com/KuangjuX/Rust-Chat.git
